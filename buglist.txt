@@ -9,6 +9,7 @@ __/firebase/
 __/firebase/init.js
 firebase
 firebase.js
+firebase/config.js
 firebase/init.js
 firebase/firebase.js
 init.js
