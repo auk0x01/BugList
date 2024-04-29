@@ -1,3 +1,4 @@
+env.js
 deploy_config.js
 config.js
 packages.json
